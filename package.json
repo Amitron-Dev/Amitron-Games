@@ -1,8 +1,8 @@
 {
     "name": "Amitron-Games",
     "preductname": "Amigames Launcher",
-    "version": "1.0.0",
-    "description": "Launcher Minecraft pour le serveur Amigames",
+    "version": "1.0.1",
+    "description": "Launcher Minecraft pour le serveur event Amigames",
     "main": "src/app.js",
     "author": {
         "name": "Amitron, Inc.",
